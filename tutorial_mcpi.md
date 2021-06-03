@@ -7,15 +7,6 @@
 3. Run the server. 
 4. If this sis done correctly, you should be able to connect to Minecraft with `mcpi`. Try joining the server
  at `localhost` *then* running the following code:
-
-```python
-from mcpi.minecraft import Minecraft
-
-game = Minecraft.create(address='localhost', port=25565)  # Change this to the address and port your game's running on
-                                     # - if you're not sure, leave address as it is and check
-                                     # server.properties for server-port.
-game.postToChat('Hello Minecraft!')
-```
 5. If you see the line 'Hello Minecraft' in the chat, congratulations! You can now use `mcpi` normally.
 
 # References and Notes
