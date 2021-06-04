@@ -4,7 +4,7 @@
     * 开服侠 ([Website](http://www.kaifuxia.com))
 2. Place the [RaspberryJuice JAR](https://dev.bukkit.org/projects/raspberryjuice) into the `plugin` directory.  
 (If there's none, either create one or wait for the tool you use to create one when generating the world).
-3. Run the server. 
+3. Run the server. You should use **`1.12.2`** or lower in order to have `mcpi` work normally.
 4. If this sis done correctly, you should be able to connect to Minecraft with `mcpi`. Try joining the server
  at `localhost` *then* running the following code:
 5. If you see the line 'Hello Minecraft' in the chat, congratulations! You can now use `mcpi` normally.
