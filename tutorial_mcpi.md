@@ -5,6 +5,8 @@
 2. Place the [RaspberryJuice JAR](https://dev.bukkit.org/projects/raspberryjuice) into the `plugin` directory.  
 (If there's none, either create one or wait for the tool you use to create one when generating the world).
 3. Run the server. You should use **`1.12.2`** or lower in order to have `mcpi` work normally.
+    * UPDATE: With the use of [RaspberryJuice2](https://github.com/lasteamlab/RaspberryJuice2) 
+    and [mcpi2](https://github.com/lasteamlab/mcpi2), it **should** be compatible with 1.13+ now.
 4. If this sis done correctly, you should be able to connect to Minecraft with `mcpi`. Try joining the server
  at `localhost` *then* running the following code:
 5. If you see the line 'Hello Minecraft' in the chat, congratulations! You can now use `mcpi` normally.

@@ -5,6 +5,5 @@ Supplementary codes for my mock IB Math IA. It explores the extent to which the 
 
 ## How to Use
 Though this repository is not designed to be used by others, here are some memos for setting this up:
-* `git clone https://github.com/Will-777/spawn_mobs_mcpi mcpi_mob` for spawning mobs.
 * Refer to `tutorial_mcpi.md` for general environment setting
 * `pip install -r requirements.txt`
